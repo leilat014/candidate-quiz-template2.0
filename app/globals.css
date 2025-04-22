@@ -46,7 +46,7 @@ button, .btn-disabled {
   font-size: 1rem;
   border-radius: 4px;
   cursor: pointer;
-  background-color: #4CAF50; 
+  background-color: #001f54; 
   color: #fff;
   border-color: #fff;
 }
@@ -61,17 +61,17 @@ li {
   margin: 9px 0;
   padding: 16px 8px;
   color: #000; 
-  border: 1px solid #4CAF50; 
+  border: 1px solid #001f54; 
 }
 
 .li-hover:hover {
-  background-color: #4CAF50; 
+  background-color: #001f54; 
   color: #fff; 
 }
 
 .li-selected {
   color: #fff;
-  background-color: #4CAF50; 
+  background-color: #001f54; 
 }
 
 .container {
