@@ -22,6 +22,7 @@ h1, .title {
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 1.8rem;
+  line-height: 2;
   margin-bottom: 0.5rem;
 }
 
