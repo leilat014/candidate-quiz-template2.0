@@ -22,12 +22,12 @@ h1, .title {
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 1.8rem;
-  line-height: 6;
   margin-bottom: 0.5rem;
 }
 
 h2 {
   color: #000;
+  line-height: 2;
   font-family: 'Soleil', sans-serif;
   font-weight: 600;
 }
