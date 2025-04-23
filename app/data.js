@@ -83,9 +83,9 @@ export const quiz = {
     },
   ],
   results: {
-    A: "Alexis Espinoza",
-    B: "Reagan Denny",
-    C: "Colin Shea",
-    D: "Marc Cabeliza",
+    A: "Alexis Espinoza is your match. Espinoza is a DEI office intern, OCOB Ambassador and member of the HSI task force. Espinoza recognizes the value of student organizations on campus and aims to prioritize them if elected.",
+    B: "Reagan Denny is your soulmate. Denny is the current Board of Directors chair and an agricultural engineering junior. Denny hopes to prioritize students’ “rights, resources and relationships.”",
+    C: "Colin Shea is your soulmate. He is the current ASI chief of staff and a business administration junior. Shea wants to close the communication gap between university officials and students.",
+    D: "Marc Cabeliza is your match. Cabeliza is Chair of the University Union Advisory Board. Cabeliza Additionally, Cabeliza hopes to work with city officials to create a new bus route from Cal Poly directly to downtown San Luis Obispo.",
   },
 };

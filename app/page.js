@@ -72,7 +72,7 @@ const Page = () => {
         <div className='quiz-container'>
           <h3>Results</h3>
           <p>Your Result: <b>{calculateResult()}</b></p>
-          <a href = "https://mustangnews.net/local-election-guide-whos-running/" target="_top">Learn more about each candidate here</a>
+          <a href = "https://mustangnews.net/asi-election-presidential-candidates/" target="_top">Learn more about each candidate here</a>
           <button onClick={() => window.location.reload()}>Restart</button>
         </div>
       )}
